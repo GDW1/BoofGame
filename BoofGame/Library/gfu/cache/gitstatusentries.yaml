@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-25T12:07:19.572-07:00
-  initializedAtString: 2020-03-25T10:59:30.932-07:00
+  lastUpdatedAtString: 2020-03-25T14:07:38.214-07:00
+  initializedAtString: 2020-03-25T12:31:54.895-07:00
   entries:
   - path: BoofGame/Assets/Scenes/SampleScene.unity
     fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scenes/SampleScene.unity
@@ -28,33 +28,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/Library/CurrentLayout-default.dwlt
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/CurrentLayout-default.dwlt
-    projectPath: Library/CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoofGame/Library/EditorInstance.json
     fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/Library/gfu/cache/branches.yaml
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoofGame/Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,27 +58,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/Library/InspectorExpandedItems.asset
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: BoofGame/Library/ShaderCache.db
     fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ShaderCache.db
     projectPath: Library/ShaderCache.db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Library/ShaderCache/EditorEncounteredVariants
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ShaderCache/EditorEncounteredVariants
-    projectPath: Library/ShaderCache/EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -112,9 +76,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/ProjectSettings/ProjectSettings.asset
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/ProjectSettings.asset
-    projectPath: ProjectSettings/ProjectSettings.asset
+  - path: BoofGame/ProjectSettings/Physics2DSettings.asset
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/Physics2DSettings.asset
+    projectPath: ProjectSettings/Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoofGame/ProjectSettings/TagManager.asset
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
