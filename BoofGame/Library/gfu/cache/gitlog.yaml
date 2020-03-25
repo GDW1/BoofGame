@@ -13,9 +13,579 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-18T16:41:14.077-07:00
-  initializedAtString: 2020-03-18T16:38:04.617-07:00
+  lastUpdatedAtString: 2020-03-25T01:02:56.519-07:00
+  initializedAtString: 2020-03-25T01:02:55.735-07:00
   log:
+  - commitID: c3f145d0bdb26e1c8efc242db2791afec9073039
+    mergeA: 
+    mergeB: 
+    authorName: Guy
+    authorEmail: guydwilks@gmail.com
+    commitEmail: guydwilks@gmail.com
+    commitName: Guy
+    summary: sample
+    description: 
+    timeString: 2020-03-25T01:02:45.000-07:00
+    commitTimeString: 2020-03-25T01:02:45.000-07:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Assets/Scenes/SampleScene.unity
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ArtifactDB
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/Artifacts/02/02a835f91d736ae02d297baa8e243f95
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/02/02a835f91d736ae02d297baa8e243f95
+      projectPath: Library/Artifacts/02/02a835f91d736ae02d297baa8e243f95
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Library/Artifacts/ad/ad2e5783c2ec4ba5ed19bd9eb15f0d68
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ad/ad2e5783c2ec4ba5ed19bd9eb15f0d68
+      projectPath: Library/Artifacts/ad/ad2e5783c2ec4ba5ed19bd9eb15f0d68
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Library/EditorInstance.json
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/EditorOnlyScriptingSettings.json
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/EditorOnlyScriptingSettings.json
+      projectPath: Library/EditorOnlyScriptingSettings.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/EditorUserBuildSettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/InspectorExpandedItems.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/SceneVisibilityState.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/SceneVisibilityState.asset
+      projectPath: Library/SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/UnityEditor.UI.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/UnityEngine.UI.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptMapper
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptMapper
+      projectPath: Library/ScriptMapper
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/SourceAssetDB
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/SourceAssetDB-lock
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/SourceAssetDB-lock
+      projectPath: Library/SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/StateCache/Hierarchy/faa4f5-mainStage.json
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/StateCache/Hierarchy/faa4f5-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/faa4f5-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/StateCache/SceneView/f38cd5-mainStage.json
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/StateCache/SceneView/f38cd5-mainStage.json
+      projectPath: Library/StateCache/SceneView/f38cd5-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/branches.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Logs/Packages-Update.log
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Logs/Packages-Update.log
+      projectPath: Logs/Packages-Update.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Packages/manifest.json
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Packages/manifest.json
+      projectPath: Packages/manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/AudioManager.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/AudioManager.asset
+      projectPath: ProjectSettings/AudioManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/DynamicsManager.asset
+      projectPath: ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/EditorSettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/EditorSettings.asset
+      projectPath: ProjectSettings/EditorSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/GraphicsSettings.asset
+      projectPath: ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/InputManager.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/InputManager.asset
+      projectPath: ProjectSettings/InputManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/NavMeshAreas.asset
+      projectPath: ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/Physics2DSettings.asset
+      projectPath: ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/QualitySettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/TagManager.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/TimeManager.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/TimeManager.asset
+      projectPath: ProjectSettings/TimeManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/VFXManager.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/VFXManager.asset
+      projectPath: ProjectSettings/VFXManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-0834960761c4d459abe23520fa96f7a4
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-0834960761c4d459abe23520fa96f7a4
+      projectPath: Temp/UnityTempFile-0834960761c4d459abe23520fa96f7a4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-0942ce2e6c1324633829118b4547d1e8
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-0942ce2e6c1324633829118b4547d1e8
+      projectPath: Temp/UnityTempFile-0942ce2e6c1324633829118b4547d1e8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-0b32c3dd63e2a4f4aba22ecd0c0ab4ac
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-0b32c3dd63e2a4f4aba22ecd0c0ab4ac
+      projectPath: Temp/UnityTempFile-0b32c3dd63e2a4f4aba22ecd0c0ab4ac
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-1328108dd871c4b68a8076ea6fc0a1e7
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-1328108dd871c4b68a8076ea6fc0a1e7
+      projectPath: Temp/UnityTempFile-1328108dd871c4b68a8076ea6fc0a1e7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-133b385a1139546b6a557e1dcab0da47
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-133b385a1139546b6a557e1dcab0da47
+      projectPath: Temp/UnityTempFile-133b385a1139546b6a557e1dcab0da47
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-1c047d1abbf7744328b23e3485a12727
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-1c047d1abbf7744328b23e3485a12727
+      projectPath: Temp/UnityTempFile-1c047d1abbf7744328b23e3485a12727
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-20ed59e2ebe0f4545a6581dc05514f11
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-20ed59e2ebe0f4545a6581dc05514f11
+      projectPath: Temp/UnityTempFile-20ed59e2ebe0f4545a6581dc05514f11
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-46a5b6227310546e7830776c801b3a15
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-46a5b6227310546e7830776c801b3a15
+      projectPath: Temp/UnityTempFile-46a5b6227310546e7830776c801b3a15
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-5594e2c2d16c44623a26599e837cb1be
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-5594e2c2d16c44623a26599e837cb1be
+      projectPath: Temp/UnityTempFile-5594e2c2d16c44623a26599e837cb1be
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-57dd4493da1df433697f66ec41bd7562
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-57dd4493da1df433697f66ec41bd7562
+      projectPath: Temp/UnityTempFile-57dd4493da1df433697f66ec41bd7562
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-5b42a2a2e85794aa49edd38182c7cc7a
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-5b42a2a2e85794aa49edd38182c7cc7a
+      projectPath: Temp/UnityTempFile-5b42a2a2e85794aa49edd38182c7cc7a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-5dd859d4ec9af4b01ac10637b88df689
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-5dd859d4ec9af4b01ac10637b88df689
+      projectPath: Temp/UnityTempFile-5dd859d4ec9af4b01ac10637b88df689
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-6c9447d8b87d747569481b9a9ba07f09
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-6c9447d8b87d747569481b9a9ba07f09
+      projectPath: Temp/UnityTempFile-6c9447d8b87d747569481b9a9ba07f09
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-6e96a395a569b48b4b0d0d1d8333c8bd
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-6e96a395a569b48b4b0d0d1d8333c8bd
+      projectPath: Temp/UnityTempFile-6e96a395a569b48b4b0d0d1d8333c8bd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-7dc9ab2ecf26241eda16e5f3112472bb
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-7dc9ab2ecf26241eda16e5f3112472bb
+      projectPath: Temp/UnityTempFile-7dc9ab2ecf26241eda16e5f3112472bb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-7e932fa5fa7fc48cb8f59d17a59aa221
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-7e932fa5fa7fc48cb8f59d17a59aa221
+      projectPath: Temp/UnityTempFile-7e932fa5fa7fc48cb8f59d17a59aa221
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-7f137c8a0742243afa4a260475758a4f
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-7f137c8a0742243afa4a260475758a4f
+      projectPath: Temp/UnityTempFile-7f137c8a0742243afa4a260475758a4f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-828bb2496f68e489caf4c037dc5ef938
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-828bb2496f68e489caf4c037dc5ef938
+      projectPath: Temp/UnityTempFile-828bb2496f68e489caf4c037dc5ef938
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-832d34cd6f740493b880c7c573113415
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-832d34cd6f740493b880c7c573113415
+      projectPath: Temp/UnityTempFile-832d34cd6f740493b880c7c573113415
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-880746c8be74447d095db715d03960c1
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-880746c8be74447d095db715d03960c1
+      projectPath: Temp/UnityTempFile-880746c8be74447d095db715d03960c1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-909bd6eaf8f604841b22b800a8f1dfed
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-909bd6eaf8f604841b22b800a8f1dfed
+      projectPath: Temp/UnityTempFile-909bd6eaf8f604841b22b800a8f1dfed
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-92e07a3669cb4407596677e5d33872dc
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-92e07a3669cb4407596677e5d33872dc
+      projectPath: Temp/UnityTempFile-92e07a3669cb4407596677e5d33872dc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-93396f76f16ff483baccd99bae287761
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-93396f76f16ff483baccd99bae287761
+      projectPath: Temp/UnityTempFile-93396f76f16ff483baccd99bae287761
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-9592ead2d373d47bfbad9efa5d9c338e
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-9592ead2d373d47bfbad9efa5d9c338e
+      projectPath: Temp/UnityTempFile-9592ead2d373d47bfbad9efa5d9c338e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-9f85eb254cd714c4eb5c10bb1b91d118
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-9f85eb254cd714c4eb5c10bb1b91d118
+      projectPath: Temp/UnityTempFile-9f85eb254cd714c4eb5c10bb1b91d118
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-a0181483da86c4e8eb6d043bb48e4562
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-a0181483da86c4e8eb6d043bb48e4562
+      projectPath: Temp/UnityTempFile-a0181483da86c4e8eb6d043bb48e4562
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-a599da52f87664b1a8083adc2398bb13
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-a599da52f87664b1a8083adc2398bb13
+      projectPath: Temp/UnityTempFile-a599da52f87664b1a8083adc2398bb13
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-aa1b2f2ca03334e80b02ff749ac3678f
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-aa1b2f2ca03334e80b02ff749ac3678f
+      projectPath: Temp/UnityTempFile-aa1b2f2ca03334e80b02ff749ac3678f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-ae6970d1e666344648969a97c053a090
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-ae6970d1e666344648969a97c053a090
+      projectPath: Temp/UnityTempFile-ae6970d1e666344648969a97c053a090
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-afe6a6f89ea7946998c96d97158bd177
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-afe6a6f89ea7946998c96d97158bd177
+      projectPath: Temp/UnityTempFile-afe6a6f89ea7946998c96d97158bd177
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-c1b51e22a4cb64e5f8e0f2c0bc215acf
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-c1b51e22a4cb64e5f8e0f2c0bc215acf
+      projectPath: Temp/UnityTempFile-c1b51e22a4cb64e5f8e0f2c0bc215acf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-c4d451d9c120048b1acb0358bf20b041
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-c4d451d9c120048b1acb0358bf20b041
+      projectPath: Temp/UnityTempFile-c4d451d9c120048b1acb0358bf20b041
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-cc2d45b345aba42daa976362c4f50372
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-cc2d45b345aba42daa976362c4f50372
+      projectPath: Temp/UnityTempFile-cc2d45b345aba42daa976362c4f50372
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-cece27c186db34fd5917b86348cf03e6
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-cece27c186db34fd5917b86348cf03e6
+      projectPath: Temp/UnityTempFile-cece27c186db34fd5917b86348cf03e6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-dd2136b9918624c12afd26c7d4939438
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-dd2136b9918624c12afd26c7d4939438
+      projectPath: Temp/UnityTempFile-dd2136b9918624c12afd26c7d4939438
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-e797a2e8087ea40f6a4c771b71cc437a
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-e797a2e8087ea40f6a4c771b71cc437a
+      projectPath: Temp/UnityTempFile-e797a2e8087ea40f6a4c771b71cc437a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-eb74ecfc15bea4b6b9a7e65627dfb7cd
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-eb74ecfc15bea4b6b9a7e65627dfb7cd
+      projectPath: Temp/UnityTempFile-eb74ecfc15bea4b6b9a7e65627dfb7cd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-ec546f4b5b3d64b66a2666f6676bcb13
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-ec546f4b5b3d64b66a2666f6676bcb13
+      projectPath: Temp/UnityTempFile-ec546f4b5b3d64b66a2666f6676bcb13
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-f1039ccadefe3486dab9322c5fc84a20
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-f1039ccadefe3486dab9322c5fc84a20
+      projectPath: Temp/UnityTempFile-f1039ccadefe3486dab9322c5fc84a20
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-f4b58709137f54a8eace0d05e1d61222
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-f4b58709137f54a8eace0d05e1d61222
+      projectPath: Temp/UnityTempFile-f4b58709137f54a8eace0d05e1d61222
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityTempFile-f697714071cad413db58370d3675ee6b
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-f697714071cad413db58370d3675ee6b
+      projectPath: Temp/UnityTempFile-f697714071cad413db58370d3675ee6b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
   - commitID: 0b7d32a117964e5af2061bd8d435763b606ce92a
     mergeA: 
     mergeB: 
