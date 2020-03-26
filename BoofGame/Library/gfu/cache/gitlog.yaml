@@ -13,9 +13,387 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-25T01:02:56.519-07:00
-  initializedAtString: 2020-03-25T01:02:55.735-07:00
+  lastUpdatedAtString: 2020-03-25T22:01:50.187-07:00
+  initializedAtString: 2020-03-25T22:01:50.187-07:00
   log:
+  - commitID: bb6f4ca0c29212767adef41808c4e7cf78c13e7b
+    mergeA: 
+    mergeB: 
+    authorName: Guy
+    authorEmail: guydwilks@gmail.com
+    commitEmail: guydwilks@gmail.com
+    commitName: Guy
+    summary: bruh
+    description: 
+    timeString: 2020-03-25T22:00:07.000-07:00
+    commitTimeString: 2020-03-25T22:00:07.000-07:00
+    changes:
+    - path: BoofGame/Assets/Scenes/SampleScene.unity
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ArtifactDB
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/InspectorExpandedItems.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/UnityEditor.UI.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/UnityEngine.UI.dll
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ShaderCache.db
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ShaderCache.db
+      projectPath: Library/ShaderCache.db
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/SourceAssetDB
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/TagManager.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 92943060e62ce11156da99a91af0bf4517470668
+    mergeA: 
+    mergeB: 
+    authorName: Guy
+    authorEmail: guydwilks@gmail.com
+    commitEmail: guydwilks@gmail.com
+    commitName: Guy
+    summary: finished asset coded files
+    description: 
+    timeString: 2020-03-25T15:08:52.000-07:00
+    commitTimeString: 2020-03-25T15:08:52.000-07:00
+    changes:
+    - path: BoofGame/Assets/Scenes/SampleScene.unity
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ArtifactDB
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/CurrentLayout-default.dwlt
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/EditorInstance.json
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Library/ShaderCache.db
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ShaderCache.db
+      projectPath: Library/ShaderCache.db
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/SourceAssetDB
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/Physics2DSettings.asset
+      projectPath: ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/TagManager.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Temp/UnityLockfile
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 4958016a5d431303b64e63ad56362a2e80e5392f
+    mergeA: 
+    mergeB: 
+    authorName: Guy
+    authorEmail: guydwilks@gmail.com
+    commitEmail: guydwilks@gmail.com
+    commitName: Guy
+    summary: moving stuff
+    description: 
+    timeString: 2020-03-25T12:07:31.000-07:00
+    commitTimeString: 2020-03-25T12:07:31.000-07:00
+    changes:
+    - path: BoofGame/Assets/Scenes/SampleScene.unity
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ArtifactDB
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/CurrentLayout-default.dwlt
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/EditorInstance.json
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/InspectorExpandedItems.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoofGame/Library/ShaderCache.db
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ShaderCache.db
+      projectPath: Library/ShaderCache.db
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/SourceAssetDB
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/branches.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoofGame/ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: c3f145d0bdb26e1c8efc242db2791afec9073039
     mergeA: 
     mergeB: 

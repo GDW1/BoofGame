@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7D46FB43-004D-4D90-F7AA-E43FC8A4620A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/playerMovement.cs">
+    <Files>
+      <File FileName="Assets/playerMovement.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoofGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="playerMovement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b5ecd3ae-7d0d-4275-a199-b806c8f740e1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
