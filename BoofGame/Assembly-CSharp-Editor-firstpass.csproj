@@ -68,11 +68,20 @@
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Path.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -83,26 +92,14 @@
  <Reference Include="Unity.CollabProxy.Editor">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Postprocessing.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Rider.Editor">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.UI">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Path.Editor">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
@@ -110,32 +107,20 @@
  <Reference Include="Unity.InternalAPIEngineBridge.001">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
- <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics.Editor">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Common.Editor">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
- </Reference>
- <Reference Include="Cinemachine">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Postprocessing.Editor">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
- </Reference>
  <Reference Include="Unity.Postprocessing.Runtime">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Tilemap.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Runtime">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.SpatialTracking">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
@@ -149,8 +134,23 @@
  <Reference Include="Unity.VisualStudio.Editor">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Mathematics.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.XR.LegacyInputHelpers">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEditorBridge.001">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -355,9 +355,6 @@
  </Reference>
  <Reference Include="GitHub.Api.45">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
- </Reference>
- <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
- <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
  <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>

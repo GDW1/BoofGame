@@ -36,7 +36,6 @@ public class Enemy : MonoBehaviour
 
     private void OnCollisionEnter2D (Collision2D col)
     {
-        Debug.Log("Enemy hit");
         if (col.gameObject.tag == "Bullet") {
             health -= col.gameObject.GetComponent<Bullet>().damage;
             if(health <= 0){

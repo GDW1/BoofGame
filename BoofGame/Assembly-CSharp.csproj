@@ -2,6 +2,8 @@
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
+    <CscToolPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+    <CscToolExe>unity_csc.sh</CscToolExe>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{43fb467d-4d00-904d-f7aa-e43fc8a4620a}</ProjectGuid>
+    <ProjectGuid>{7D46FB43-004D-4D90-F7AA-E43FC8A4620A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,13 +47,106 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
      <Compile Include="Assets\Scripts\Bullet.cs" />
+     <Compile Include="Assets\Scripts\DeaglePickup.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Scripts\cameraScript.cs" />
      <Compile Include="Assets\Scripts\playerMovement.cs" />
      <Compile Include="Assets\Scripts\shootGun.cs" />
- <Reference Include="UnityEngine">
- <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
+ <Reference Include="Unity.Timeline.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VSCode.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Path.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.CollabProxy.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Postprocessing.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Rider.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEngineBridge.001">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Runtime">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Postprocessing.Runtime">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Tilemap.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Runtime">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.SpatialTracking">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpatialTracking">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VisualStudio.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Editor">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEditorBridge.001">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -229,9 +324,6 @@
  </Reference>
  <Reference Include="UnityEngine.XRModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor">
- <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -588,126 +680,8 @@
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.5f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
  </Reference>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{97766800-d7b4-4494-bf6d-087f14f8f120}</Project>
-      <Name>Unity.Timeline.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Cinemachine.csproj">
-      <Project>{a52f09fc-d67a-06d2-1651-7af317dfefec}</Project>
-      <Name>Cinemachine</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VSCode.Editor.csproj">
-      <Project>{40c9c8cc-6b7d-6782-6424-2d0386502ed8}</Project>
-      <Name>Unity.VSCode.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.SpriteShape.Editor.csproj">
-      <Project>{c38f3043-2ff4-cd4f-f64f-7156dc5496c9}</Project>
-      <Name>Unity.2D.SpriteShape.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
-      <Project>{15809424-1224-5578-d17f-2a393cfd7955}</Project>
-      <Name>Unity.TextMeshPro.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.Path.Editor.csproj">
-      <Project>{557044eb-aaaf-aa38-7cef-2aa717dd587d}</Project>
-      <Name>Unity.2D.Path.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{40578af6-db55-fa79-3f02-ed53d5afd4b0}</Project>
-      <Name>UnityEngine.UI</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{b8826954-c4f3-a4c7-9db8-8417f5861fd9}</Project>
-      <Name>Unity.Timeline</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.CollabProxy.Editor.csproj">
-      <Project>{477dbb62-298b-04dc-43e7-439c72043b61}</Project>
-      <Name>Unity.CollabProxy.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
-      <Project>{899cf726-88f0-5777-f1cf-fe76a2a5ae02}</Project>
-      <Name>Unity.Postprocessing.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.XR.LegacyInputHelpers.csproj">
-      <Project>{e0f00874-29f6-05aa-9d46-5da989a14bb8}</Project>
-      <Name>UnityEngine.XR.LegacyInputHelpers</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Rider.Editor.csproj">
-      <Project>{df07bce5-766f-ce69-d9f0-786cb3f3290a}</Project>
-      <Name>Unity.Rider.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{9fe9c47d-37db-c24a-2d76-311fdaae0cc5}</Project>
-      <Name>Unity.Mathematics</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.InternalAPIEngineBridge.001.csproj">
-      <Project>{0de9d8df-92ca-2b7d-c25f-30cb72211f70}</Project>
-      <Name>Unity.InternalAPIEngineBridge.001</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
-      <Project>{372cf92b-56ce-0d5e-5720-8b2e7458442a}</Project>
-      <Name>Unity.2D.Sprite.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.Common.Runtime.csproj">
-      <Project>{f4d98d43-7cd2-a6c5-c47b-74b510e88a12}</Project>
-      <Name>Unity.2D.Common.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
-      <Project>{cc606688-2f63-80ac-3d17-9653e4325609}</Project>
-      <Name>Unity.Postprocessing.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.Tilemap.Editor.csproj">
-      <Project>{6a24c542-5b09-34ef-e7e9-07acb04180b3}</Project>
-      <Name>Unity.2D.Tilemap.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.SpriteShape.Runtime.csproj">
-      <Project>{695ad75d-fb6d-6276-06cc-41749a8373fd}</Project>
-      <Name>Unity.2D.SpriteShape.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEditor.SpatialTracking.csproj">
-      <Project>{2a8cd490-3b9a-126f-c9bc-e9cd77693c2f}</Project>
-      <Name>UnityEditor.SpatialTracking</Name>
-    </ProjectReference>
-    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
-      <Project>{ed4159cf-cc43-62ea-dd78-e0d5634a45e2}</Project>
-      <Name>com.unity.cinemachine.editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.SpatialTracking.csproj">
-      <Project>{b6642274-cabd-f7f1-4a08-02aead95c9b4}</Project>
-      <Name>UnityEngine.SpatialTracking</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
-      <Project>{3737f7b4-ca1e-dfd8-9612-e5cc016086fb}</Project>
-      <Name>Unity.VisualStudio.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
-      <Project>{f5b042dc-76ef-ec84-0eb4-85c17fbb9394}</Project>
-      <Name>Unity.Mathematics.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{48754495-dc16-c742-a0a5-1e5572e91a6f}</Project>
-      <Name>Unity.TextMeshPro</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.Common.Editor.csproj">
-      <Project>{485cdb01-9f12-98fe-f6e7-cb3eae8e1135}</Project>
-      <Name>Unity.2D.Common.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEditor.XR.LegacyInputHelpers.csproj">
-      <Project>{df22030e-7922-d230-1f87-24ad092c4b61}</Project>
-      <Name>UnityEditor.XR.LegacyInputHelpers</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.InternalAPIEditorBridge.001.csproj">
-      <Project>{e14cb9b8-4709-0dda-bf72-0879fdc696bc}</Project>
-      <Name>Unity.InternalAPIEditorBridge.001</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{a9fd4bf4-05f8-66ea-edef-8c1da6a372bc}</Project>
-      <Name>UnityEditor.UI</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>
