@@ -13,120 +13,96 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-26T01:05:13.640-07:00
+  lastUpdatedAtString: 2020-03-26T17:05:27.906-07:00
   initializedAtString: 2020-03-25T19:45:36.815-07:00
   entries:
-  - path: .DS_Store
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/.DS_Store
-    projectPath: ../.DS_Store
+  - path: BoofGame/Assets/Animation/.DS_Store
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/.DS_Store
+    projectPath: Assets/Animation/.DS_Store
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/.DS_Store
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/.DS_Store
-    projectPath: .DS_Store
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Assembly-CSharp.csproj
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Assets/.DS_Store
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/.DS_Store
-    projectPath: Assets/.DS_Store
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Assets/Audio/test.wav
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Audio/test.wav
-    projectPath: Assets/Audio/test.wav
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_Chip_KO.gif
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_Chip_KO.gif
+    projectPath: Assets/Animation/Gif_Files/Oro_Chip_KO.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Audio/test.wav.meta
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Audio/test.wav.meta
-    projectPath: Assets/Audio/test.wav.meta
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_Chip_KO.gif.meta
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_Chip_KO.gif.meta
+    projectPath: Assets/Animation/Gif_Files/Oro_Chip_KO.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Images/dcw8swe-ec1653b6-fdf5-47fc-a7ec-10fe3824a230.png
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Images/dcw8swe-ec1653b6-fdf5-47fc-a7ec-10fe3824a230.png
-    projectPath: Assets/Images/dcw8swe-ec1653b6-fdf5-47fc-a7ec-10fe3824a230.png
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_Getting_Hit.gif
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_Getting_Hit.gif
+    projectPath: Assets/Animation/Gif_Files/Oro_Getting_Hit.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Images/dcw8swe-ec1653b6-fdf5-47fc-a7ec-10fe3824a230.png.meta
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Images/dcw8swe-ec1653b6-fdf5-47fc-a7ec-10fe3824a230.png.meta
-    projectPath: Assets/Images/dcw8swe-ec1653b6-fdf5-47fc-a7ec-10fe3824a230.png.meta
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_Getting_Hit.gif.meta
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_Getting_Hit.gif.meta
+    projectPath: Assets/Animation/Gif_Files/Oro_Getting_Hit.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Prefabs/PickupGuns/AnotherGunPickup.prefab
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Prefabs/PickupGuns/AnotherGunPickup.prefab
-    projectPath: Assets/Prefabs/PickupGuns/AnotherGunPickup.prefab
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_LP.gif
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_LP.gif
+    projectPath: Assets/Animation/Gif_Files/Oro_LP.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Prefabs/PickupGuns/AnotherGunPickup.prefab.meta
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Prefabs/PickupGuns/AnotherGunPickup.prefab.meta
-    projectPath: Assets/Prefabs/PickupGuns/AnotherGunPickup.prefab.meta
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_LP.gif.meta
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_LP.gif.meta
+    projectPath: Assets/Animation/Gif_Files/Oro_LP.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Prefabs/PickupGuns/DeaglePickup.prefab
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Prefabs/PickupGuns/DeaglePickup.prefab
-    projectPath: Assets/Prefabs/PickupGuns/DeaglePickup.prefab
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_Stance.gif
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_Stance.gif
+    projectPath: Assets/Animation/Gif_Files/Oro_Stance.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Prefabs/PickupGuns/DeaglePickup.prefab.meta
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Prefabs/PickupGuns/DeaglePickup.prefab.meta
-    projectPath: Assets/Prefabs/PickupGuns/DeaglePickup.prefab.meta
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_Stance.gif.meta
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_Stance.gif.meta
+    projectPath: Assets/Animation/Gif_Files/Oro_Stance.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Prefabs/Player/Q.prefab
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Prefabs/Player/Q.prefab
-    projectPath: Assets/Prefabs/Player/Q.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Assets/Prefabs/UsableGuns/AnotherGun.prefab
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Prefabs/UsableGuns/AnotherGun.prefab
-    projectPath: Assets/Prefabs/UsableGuns/AnotherGun.prefab
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_Walk_Forward.gif
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_Walk_Forward.gif
+    projectPath: Assets/Animation/Gif_Files/Oro_Walk_Forward.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Prefabs/UsableGuns/AnotherGun.prefab.meta
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Prefabs/UsableGuns/AnotherGun.prefab.meta
-    projectPath: Assets/Prefabs/UsableGuns/AnotherGun.prefab.meta
+  - path: BoofGame/Assets/Animation/Gif_Files/Oro_Walk_Forward.gif.meta
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Oro_Walk_Forward.gif.meta
+    projectPath: Assets/Animation/Gif_Files/Oro_Walk_Forward.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Scenes/SampleScene.unity
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scenes/SampleScene.unity
-    projectPath: Assets/Scenes/SampleScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Assets/Scripts/DeaglePickup.cs
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scripts/DeaglePickup.cs
-    projectPath: Assets/Scripts/DeaglePickup.cs
+  - path: BoofGame/Assets/Animation/Gif_Files/Q_Getting_hit.gif
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Q_Getting_hit.gif
+    projectPath: Assets/Animation/Gif_Files/Q_Getting_hit.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Assets/Scripts/DeaglePickup.cs.meta
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scripts/DeaglePickup.cs.meta
-    projectPath: Assets/Scripts/DeaglePickup.cs.meta
+  - path: BoofGame/Assets/Animation/Gif_Files/Q_Getting_hit.gif.meta
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Q_Getting_hit.gif.meta
+    projectPath: Assets/Animation/Gif_Files/Q_Getting_hit.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoofGame/Assets/Animation/Gif_Files/Q_Lose_Chip_ko.gif
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Q_Lose_Chip_ko.gif
+    projectPath: Assets/Animation/Gif_Files/Q_Lose_Chip_ko.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoofGame/Assets/Animation/Gif_Files/Q_Lose_Chip_ko.gif.meta
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Animation/Gif_Files/Q_Lose_Chip_ko.gif.meta
+    projectPath: Assets/Animation/Gif_Files/Q_Lose_Chip_ko.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -136,525 +112,105 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/Assets/Scripts/playerMovement.cs
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scripts/playerMovement.cs
-    projectPath: Assets/Scripts/playerMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Assets/Scripts/shootGun.cs
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Assets/Scripts/shootGun.cs
-    projectPath: Assets/Scripts/shootGun.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoofGame/Library/ArtifactDB
     fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/Library/Artifacts/04/043bec3cac845e3b52d33ee0cd997161
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/04/043bec3cac845e3b52d33ee0cd997161
-    projectPath: Library/Artifacts/04/043bec3cac845e3b52d33ee0cd997161
+  - path: BoofGame/Library/Artifacts/02/02432488f6d9ba41010b2289d0504a8f
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/02/02432488f6d9ba41010b2289d0504a8f
+    projectPath: Library/Artifacts/02/02432488f6d9ba41010b2289d0504a8f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/04/043d31b22bcb0a79ac54fc20269a3c27
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/04/043d31b22bcb0a79ac54fc20269a3c27
-    projectPath: Library/Artifacts/04/043d31b22bcb0a79ac54fc20269a3c27
+  - path: BoofGame/Library/Artifacts/33/331547892f5e75855cf96bc4e232be3e
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/33/331547892f5e75855cf96bc4e232be3e
+    projectPath: Library/Artifacts/33/331547892f5e75855cf96bc4e232be3e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/06/0630a32c33ead62426ee0290ab2b0a19
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/06/0630a32c33ead62426ee0290ab2b0a19
-    projectPath: Library/Artifacts/06/0630a32c33ead62426ee0290ab2b0a19
+  - path: BoofGame/Library/Artifacts/45/452a3d7f01944976ac6160c7cc2d0d8f
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/45/452a3d7f01944976ac6160c7cc2d0d8f
+    projectPath: Library/Artifacts/45/452a3d7f01944976ac6160c7cc2d0d8f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/0c/0cc87fae9157fb951b8b7225e22214a0
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/0c/0cc87fae9157fb951b8b7225e22214a0
-    projectPath: Library/Artifacts/0c/0cc87fae9157fb951b8b7225e22214a0
+  - path: BoofGame/Library/Artifacts/47/47601c17472c27b25c4843e873e83c55
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/47/47601c17472c27b25c4843e873e83c55
+    projectPath: Library/Artifacts/47/47601c17472c27b25c4843e873e83c55
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/0e/0ec592eca5074d3db9e9b3ee823aeed7
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/0e/0ec592eca5074d3db9e9b3ee823aeed7
-    projectPath: Library/Artifacts/0e/0ec592eca5074d3db9e9b3ee823aeed7
+  - path: BoofGame/Library/Artifacts/79/79c087ac26031c4f38e2e53f8948ce13
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/79/79c087ac26031c4f38e2e53f8948ce13
+    projectPath: Library/Artifacts/79/79c087ac26031c4f38e2e53f8948ce13
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/18/182fb65492d91ba4b5111695dc4d5cec
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/18/182fb65492d91ba4b5111695dc4d5cec
-    projectPath: Library/Artifacts/18/182fb65492d91ba4b5111695dc4d5cec
+  - path: BoofGame/Library/Artifacts/7c/7c8d1d12b394237b57868485b759d718
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/7c/7c8d1d12b394237b57868485b759d718
+    projectPath: Library/Artifacts/7c/7c8d1d12b394237b57868485b759d718
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/1d/1d741cc5f906c1602c18add128583267
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/1d/1d741cc5f906c1602c18add128583267
-    projectPath: Library/Artifacts/1d/1d741cc5f906c1602c18add128583267
+  - path: BoofGame/Library/Artifacts/81/81d09ac36a25c5e0bbdb5017aa83234a
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/81/81d09ac36a25c5e0bbdb5017aa83234a
+    projectPath: Library/Artifacts/81/81d09ac36a25c5e0bbdb5017aa83234a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/1f/1f94ef92ba96f30c911cd582e5d36b52
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/1f/1f94ef92ba96f30c911cd582e5d36b52
-    projectPath: Library/Artifacts/1f/1f94ef92ba96f30c911cd582e5d36b52
+  - path: BoofGame/Library/Artifacts/b0/b0e27295215716a8554094fb15696be1
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b0/b0e27295215716a8554094fb15696be1
+    projectPath: Library/Artifacts/b0/b0e27295215716a8554094fb15696be1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/20/203628d5c5b797da896e4bb9df184ecb
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/20/203628d5c5b797da896e4bb9df184ecb
-    projectPath: Library/Artifacts/20/203628d5c5b797da896e4bb9df184ecb
+  - path: BoofGame/Library/Artifacts/b1/b13453b48680323f0744256c25800bcd
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b1/b13453b48680323f0744256c25800bcd
+    projectPath: Library/Artifacts/b1/b13453b48680323f0744256c25800bcd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/22/22e2641ed7e713f66b6a9292b234eb06
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/22/22e2641ed7e713f66b6a9292b234eb06
-    projectPath: Library/Artifacts/22/22e2641ed7e713f66b6a9292b234eb06
+  - path: BoofGame/Library/Artifacts/b4/b41063f9f5252905e993e78c458ae47d
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b4/b41063f9f5252905e993e78c458ae47d
+    projectPath: Library/Artifacts/b4/b41063f9f5252905e993e78c458ae47d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/23/23942c8a4ebad757e26b30de3511f6ab
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/23/23942c8a4ebad757e26b30de3511f6ab
-    projectPath: Library/Artifacts/23/23942c8a4ebad757e26b30de3511f6ab
+  - path: BoofGame/Library/Artifacts/dd/ddd2e16f00563f9f87285474d610bae8
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/dd/ddd2e16f00563f9f87285474d610bae8
+    projectPath: Library/Artifacts/dd/ddd2e16f00563f9f87285474d610bae8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/25/25b5abfd26a07bba7f39ca5ba238b1c0
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/25/25b5abfd26a07bba7f39ca5ba238b1c0
-    projectPath: Library/Artifacts/25/25b5abfd26a07bba7f39ca5ba238b1c0
+  - path: BoofGame/Library/Artifacts/de/de7f04a3c18c327f08cc6a6c9f218e6a
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/de/de7f04a3c18c327f08cc6a6c9f218e6a
+    projectPath: Library/Artifacts/de/de7f04a3c18c327f08cc6a6c9f218e6a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/26/26bbfbe86450a59009e2d21fc7c308db
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/26/26bbfbe86450a59009e2d21fc7c308db
-    projectPath: Library/Artifacts/26/26bbfbe86450a59009e2d21fc7c308db
+  - path: BoofGame/Library/Artifacts/e5/e59e74cc200f4ce2f05877387d3074fd
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/e5/e59e74cc200f4ce2f05877387d3074fd
+    projectPath: Library/Artifacts/e5/e59e74cc200f4ce2f05877387d3074fd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/2c/2c22791891b3705a541092429fea0daf
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/2c/2c22791891b3705a541092429fea0daf
-    projectPath: Library/Artifacts/2c/2c22791891b3705a541092429fea0daf
+  - path: BoofGame/Library/Artifacts/ef/ef9a3e6f5a77a5a57ba66faa0c7a65a5
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ef/ef9a3e6f5a77a5a57ba66faa0c7a65a5
+    projectPath: Library/Artifacts/ef/ef9a3e6f5a77a5a57ba66faa0c7a65a5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/2f/2f7e0cc5df2d3785cee21d0d519cb167
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/2f/2f7e0cc5df2d3785cee21d0d519cb167
-    projectPath: Library/Artifacts/2f/2f7e0cc5df2d3785cee21d0d519cb167
+  - path: BoofGame/Library/Artifacts/f0/f0eae714f62403ead4bbbef90a18c4b0
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/f0/f0eae714f62403ead4bbbef90a18c4b0
+    projectPath: Library/Artifacts/f0/f0eae714f62403ead4bbbef90a18c4b0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/39/39004e4219de8a58df915d1c61ba7807
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/39/39004e4219de8a58df915d1c61ba7807
-    projectPath: Library/Artifacts/39/39004e4219de8a58df915d1c61ba7807
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/39/396dfac006504872e92b047e019edd45
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/39/396dfac006504872e92b047e019edd45
-    projectPath: Library/Artifacts/39/396dfac006504872e92b047e019edd45
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/39/39d72f8c35782ec4a199869dc8ed3981
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/39/39d72f8c35782ec4a199869dc8ed3981
-    projectPath: Library/Artifacts/39/39d72f8c35782ec4a199869dc8ed3981
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/39/39e0d41b51505565534736bd8a88328f
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/39/39e0d41b51505565534736bd8a88328f
-    projectPath: Library/Artifacts/39/39e0d41b51505565534736bd8a88328f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/3a/3abe7d14d06b6e11d9aa17439025d3f5
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/3a/3abe7d14d06b6e11d9aa17439025d3f5
-    projectPath: Library/Artifacts/3a/3abe7d14d06b6e11d9aa17439025d3f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/3b/3be1fee15b597f7d55365d5cc13fd40c
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/3b/3be1fee15b597f7d55365d5cc13fd40c
-    projectPath: Library/Artifacts/3b/3be1fee15b597f7d55365d5cc13fd40c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/41/41184ceb4eb89321cf05ff24b92f59f2
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/41/41184ceb4eb89321cf05ff24b92f59f2
-    projectPath: Library/Artifacts/41/41184ceb4eb89321cf05ff24b92f59f2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/45/453eb27a20cb7042022fa326f4c96d81
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/45/453eb27a20cb7042022fa326f4c96d81
-    projectPath: Library/Artifacts/45/453eb27a20cb7042022fa326f4c96d81
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/46/462c7c92298056423f9e110e8d0c9220
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/46/462c7c92298056423f9e110e8d0c9220
-    projectPath: Library/Artifacts/46/462c7c92298056423f9e110e8d0c9220
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/4a/4a7ed84e6e1b3eab07ba14e5eff1e6a0
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/4a/4a7ed84e6e1b3eab07ba14e5eff1e6a0
-    projectPath: Library/Artifacts/4a/4a7ed84e6e1b3eab07ba14e5eff1e6a0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/4b/4b328050bd9c2e85cad5de6f15b04d9a
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/4b/4b328050bd9c2e85cad5de6f15b04d9a
-    projectPath: Library/Artifacts/4b/4b328050bd9c2e85cad5de6f15b04d9a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/4e/4ecadcd6ea6b892396d6d14cd9abe19a
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/4e/4ecadcd6ea6b892396d6d14cd9abe19a
-    projectPath: Library/Artifacts/4e/4ecadcd6ea6b892396d6d14cd9abe19a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/4f/4f15b4648898104daa8ace2f56f3c755
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/4f/4f15b4648898104daa8ace2f56f3c755
-    projectPath: Library/Artifacts/4f/4f15b4648898104daa8ace2f56f3c755
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/50/50cc0a0db20256a8b04238a1276971d4
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/50/50cc0a0db20256a8b04238a1276971d4
-    projectPath: Library/Artifacts/50/50cc0a0db20256a8b04238a1276971d4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/52/5299ea7bce82fef6937287da26e82bd3
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/52/5299ea7bce82fef6937287da26e82bd3
-    projectPath: Library/Artifacts/52/5299ea7bce82fef6937287da26e82bd3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/55/55a738fcf75ea894ed448c7eb43167f8
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/55/55a738fcf75ea894ed448c7eb43167f8
-    projectPath: Library/Artifacts/55/55a738fcf75ea894ed448c7eb43167f8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/57/5797c5e339145e69d603346c978ce14f
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/57/5797c5e339145e69d603346c978ce14f
-    projectPath: Library/Artifacts/57/5797c5e339145e69d603346c978ce14f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/5d/5d2b2579056c6ba6b0ef7f54fc2ea526
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/5d/5d2b2579056c6ba6b0ef7f54fc2ea526
-    projectPath: Library/Artifacts/5d/5d2b2579056c6ba6b0ef7f54fc2ea526
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/5e/5e43e27ab45c529b49a7f9ea83094ca0
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/5e/5e43e27ab45c529b49a7f9ea83094ca0
-    projectPath: Library/Artifacts/5e/5e43e27ab45c529b49a7f9ea83094ca0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/62/62fa6dbef4d52da6718ce8c1518f39f4
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/62/62fa6dbef4d52da6718ce8c1518f39f4
-    projectPath: Library/Artifacts/62/62fa6dbef4d52da6718ce8c1518f39f4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/64/645d25d1e5ed37912301247abc316559
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/64/645d25d1e5ed37912301247abc316559
-    projectPath: Library/Artifacts/64/645d25d1e5ed37912301247abc316559
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/67/6710798e9207c3e7bef93b2cfa39449d
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/67/6710798e9207c3e7bef93b2cfa39449d
-    projectPath: Library/Artifacts/67/6710798e9207c3e7bef93b2cfa39449d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/67/6754e78e4a362b0a66b08d27540479dc
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/67/6754e78e4a362b0a66b08d27540479dc
-    projectPath: Library/Artifacts/67/6754e78e4a362b0a66b08d27540479dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/6a/6adee4aec7f730732dc2bfbdb79af904
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/6a/6adee4aec7f730732dc2bfbdb79af904
-    projectPath: Library/Artifacts/6a/6adee4aec7f730732dc2bfbdb79af904
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/6f/6f737ee559b2d597be77ccaac44732a1
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/6f/6f737ee559b2d597be77ccaac44732a1
-    projectPath: Library/Artifacts/6f/6f737ee559b2d597be77ccaac44732a1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/73/73d05a1288a1f119ec11942958ffffb1
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/73/73d05a1288a1f119ec11942958ffffb1
-    projectPath: Library/Artifacts/73/73d05a1288a1f119ec11942958ffffb1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/75/752a9880a9ec5f113776c137bf9b60f7
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/75/752a9880a9ec5f113776c137bf9b60f7
-    projectPath: Library/Artifacts/75/752a9880a9ec5f113776c137bf9b60f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/75/7561c8170dff28b1d0e03f935abc9905
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/75/7561c8170dff28b1d0e03f935abc9905
-    projectPath: Library/Artifacts/75/7561c8170dff28b1d0e03f935abc9905
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/78/78c824c2e5f400879ba34684329ee7b9
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/78/78c824c2e5f400879ba34684329ee7b9
-    projectPath: Library/Artifacts/78/78c824c2e5f400879ba34684329ee7b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/7d/7d6540b0c822ea042f039720499b6f31
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/7d/7d6540b0c822ea042f039720499b6f31
-    projectPath: Library/Artifacts/7d/7d6540b0c822ea042f039720499b6f31
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/86/865cf456aaaa2b70f19e834563e18876
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/86/865cf456aaaa2b70f19e834563e18876
-    projectPath: Library/Artifacts/86/865cf456aaaa2b70f19e834563e18876
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/8d/8d2159e285b77c7c5f1e70914ecc87db
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/8d/8d2159e285b77c7c5f1e70914ecc87db
-    projectPath: Library/Artifacts/8d/8d2159e285b77c7c5f1e70914ecc87db
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/8d/8d37a9bf2a74f32ec9e1c9f09f442dd8
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/8d/8d37a9bf2a74f32ec9e1c9f09f442dd8
-    projectPath: Library/Artifacts/8d/8d37a9bf2a74f32ec9e1c9f09f442dd8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/91/915a99832a4f88ab8e13122637fdcde8
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/91/915a99832a4f88ab8e13122637fdcde8
-    projectPath: Library/Artifacts/91/915a99832a4f88ab8e13122637fdcde8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/93/93089dd901ec9f2837b60c11a5479662
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/93/93089dd901ec9f2837b60c11a5479662
-    projectPath: Library/Artifacts/93/93089dd901ec9f2837b60c11a5479662
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/94/948ff4c5270ed19ebd1ff32bc81e7510
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/94/948ff4c5270ed19ebd1ff32bc81e7510
-    projectPath: Library/Artifacts/94/948ff4c5270ed19ebd1ff32bc81e7510
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/97/97257482ae8e3a33a6d85b6cce10f0cb
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/97/97257482ae8e3a33a6d85b6cce10f0cb
-    projectPath: Library/Artifacts/97/97257482ae8e3a33a6d85b6cce10f0cb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/a2/a2b4d53587d4ebe6805f3426b659416c
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/a2/a2b4d53587d4ebe6805f3426b659416c
-    projectPath: Library/Artifacts/a2/a2b4d53587d4ebe6805f3426b659416c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/a7/a7eee5c420c416eea710ecb1826498ee
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/a7/a7eee5c420c416eea710ecb1826498ee
-    projectPath: Library/Artifacts/a7/a7eee5c420c416eea710ecb1826498ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/a9/a9a42ccb6bc71486720a73a0a63b1356
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/a9/a9a42ccb6bc71486720a73a0a63b1356
-    projectPath: Library/Artifacts/a9/a9a42ccb6bc71486720a73a0a63b1356
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/aa/aa7fb1f927dbd6147f265135139aaeac
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/aa/aa7fb1f927dbd6147f265135139aaeac
-    projectPath: Library/Artifacts/aa/aa7fb1f927dbd6147f265135139aaeac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ac/ac35c071858a4c39aabbc6271f5a71e0
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ac/ac35c071858a4c39aabbc6271f5a71e0
-    projectPath: Library/Artifacts/ac/ac35c071858a4c39aabbc6271f5a71e0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ac/ac8b7f95698b095603b068a6960354e2
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ac/ac8b7f95698b095603b068a6960354e2
-    projectPath: Library/Artifacts/ac/ac8b7f95698b095603b068a6960354e2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ac/ac951ec479478b48317d2bc53c6a1385
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ac/ac951ec479478b48317d2bc53c6a1385
-    projectPath: Library/Artifacts/ac/ac951ec479478b48317d2bc53c6a1385
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/b0/b082c75e1fd871e4bc8afaa3de6ed985
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b0/b082c75e1fd871e4bc8afaa3de6ed985
-    projectPath: Library/Artifacts/b0/b082c75e1fd871e4bc8afaa3de6ed985
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/b0/b0afc9c0608cd2384b8507807cb62b0a
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b0/b0afc9c0608cd2384b8507807cb62b0a
-    projectPath: Library/Artifacts/b0/b0afc9c0608cd2384b8507807cb62b0a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/b4/b492f2b7dcb766cc2d0c36dec287db28
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b4/b492f2b7dcb766cc2d0c36dec287db28
-    projectPath: Library/Artifacts/b4/b492f2b7dcb766cc2d0c36dec287db28
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/b6/b628ab7278f7f6d8b106c5bc2eaa4bb6
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b6/b628ab7278f7f6d8b106c5bc2eaa4bb6
-    projectPath: Library/Artifacts/b6/b628ab7278f7f6d8b106c5bc2eaa4bb6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/b6/b656c14545596963ecc1051d369e2cae
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b6/b656c14545596963ecc1051d369e2cae
-    projectPath: Library/Artifacts/b6/b656c14545596963ecc1051d369e2cae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/b6/b685a0d48212cf4ee642e63b42e5705c
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/b6/b685a0d48212cf4ee642e63b42e5705c
-    projectPath: Library/Artifacts/b6/b685a0d48212cf4ee642e63b42e5705c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/bc/bc23c11b061d0be788e0f99f883e6931
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/bc/bc23c11b061d0be788e0f99f883e6931
-    projectPath: Library/Artifacts/bc/bc23c11b061d0be788e0f99f883e6931
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/c2/c22279c500d1a74f1563dbb747d62c48
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/c2/c22279c500d1a74f1563dbb747d62c48
-    projectPath: Library/Artifacts/c2/c22279c500d1a74f1563dbb747d62c48
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/c4/c46040997bde77f77f970c4a0a6038ff
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/c4/c46040997bde77f77f970c4a0a6038ff
-    projectPath: Library/Artifacts/c4/c46040997bde77f77f970c4a0a6038ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/c4/c4cff830265156031a7da1e0a51e92f6
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/c4/c4cff830265156031a7da1e0a51e92f6
-    projectPath: Library/Artifacts/c4/c4cff830265156031a7da1e0a51e92f6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/cc/ccf41b7d7818fc360124028c3c68bf48
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/cc/ccf41b7d7818fc360124028c3c68bf48
-    projectPath: Library/Artifacts/cc/ccf41b7d7818fc360124028c3c68bf48
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ce/ce383bf61d6320bd3ed3e135d1c26ac1
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ce/ce383bf61d6320bd3ed3e135d1c26ac1
-    projectPath: Library/Artifacts/ce/ce383bf61d6320bd3ed3e135d1c26ac1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/d2/d296d3358478c4ea7c0b1ef54dbf868c
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/d2/d296d3358478c4ea7c0b1ef54dbf868c
-    projectPath: Library/Artifacts/d2/d296d3358478c4ea7c0b1ef54dbf868c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/d3/d3c8f5cdd0fc7e5618f21c5ccc0d7e26
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/d3/d3c8f5cdd0fc7e5618f21c5ccc0d7e26
-    projectPath: Library/Artifacts/d3/d3c8f5cdd0fc7e5618f21c5ccc0d7e26
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/d6/d67effb844c5902cb3327903d69064e1
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/d6/d67effb844c5902cb3327903d69064e1
-    projectPath: Library/Artifacts/d6/d67effb844c5902cb3327903d69064e1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/de/debc4ac33935a87c31a4b1f863e25082
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/de/debc4ac33935a87c31a4b1f863e25082
-    projectPath: Library/Artifacts/de/debc4ac33935a87c31a4b1f863e25082
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ea/eacc905391f7359040b0f55de1d6784f
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ea/eacc905391f7359040b0f55de1d6784f
-    projectPath: Library/Artifacts/ea/eacc905391f7359040b0f55de1d6784f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ed/ed3d1b949582cd253e72e2d4870a6a59
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ed/ed3d1b949582cd253e72e2d4870a6a59
-    projectPath: Library/Artifacts/ed/ed3d1b949582cd253e72e2d4870a6a59
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ed/edabcc4ea09da8b24255cd7c4f246b3e
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ed/edabcc4ea09da8b24255cd7c4f246b3e
-    projectPath: Library/Artifacts/ed/edabcc4ea09da8b24255cd7c4f246b3e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/f2/f2e4f845734e655c167093a6c9c8a602
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/f2/f2e4f845734e655c167093a6c9c8a602
-    projectPath: Library/Artifacts/f2/f2e4f845734e655c167093a6c9c8a602
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/f9/f92506590e4d885a9a4f6d6efe398aa3
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/f9/f92506590e4d885a9a4f6d6efe398aa3
-    projectPath: Library/Artifacts/f9/f92506590e4d885a9a4f6d6efe398aa3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/fa/fa32da363689965ba4bab8b719f94253
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/fa/fa32da363689965ba4bab8b719f94253
-    projectPath: Library/Artifacts/fa/fa32da363689965ba4bab8b719f94253
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/fd/fd1ed07357a55ec25e9e55a96388bc5b
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/fd/fd1ed07357a55ec25e9e55a96388bc5b
-    projectPath: Library/Artifacts/fd/fd1ed07357a55ec25e9e55a96388bc5b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ff/ffcb4b2ff181f20d97adf7f7c8fb9ffb
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ff/ffcb4b2ff181f20d97adf7f7c8fb9ffb
-    projectPath: Library/Artifacts/ff/ffcb4b2ff181f20d97adf7f7c8fb9ffb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/Artifacts/ff/ffe2e4b1052313a89850dffe4416c9df
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/ff/ffe2e4b1052313a89850dffe4416c9df
-    projectPath: Library/Artifacts/ff/ffe2e4b1052313a89850dffe4416c9df
+  - path: BoofGame/Library/Artifacts/f5/f52949c18f4e3711b4b16c8001af1c2e
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/Artifacts/f5/f52949c18f4e3711b4b16c8001af1c2e
+    projectPath: Library/Artifacts/f5/f52949c18f4e3711b4b16c8001af1c2e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -694,12 +250,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/Library/InspectorExpandedItems.asset
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoofGame/Library/ScriptAssemblies/Assembly-CSharp.dll
     fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/ScriptAssemblies/Assembly-CSharp.dll
     projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
@@ -718,327 +268,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/Library/StateCache/Hierarchy/9d85b4-17d68abb3239946b19.json
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/StateCache/Hierarchy/9d85b4-17d68abb3239946b19.json
-    projectPath: Library/StateCache/Hierarchy/9d85b4-17d68abb3239946b19.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Library/StateCache/Hierarchy/9d85b4-6b07a80ba76774e70b.json
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/StateCache/Hierarchy/9d85b4-6b07a80ba76774e70b.json
-    projectPath: Library/StateCache/Hierarchy/9d85b4-6b07a80ba76774e70b.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoofGame/Library/StateCache/Hierarchy/9d85b4-mainStage.json
     fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/StateCache/Hierarchy/9d85b4-mainStage.json
     projectPath: Library/StateCache/Hierarchy/9d85b4-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/Library/StateCache/SceneView/f0429e-17d68abb3239946b19.json
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/StateCache/SceneView/f0429e-17d68abb3239946b19.json
-    projectPath: Library/StateCache/SceneView/f0429e-17d68abb3239946b19.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: BoofGame/Library/StateCache/SceneView/f0429e-mainStage.json
     fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Library/StateCache/SceneView/f0429e-mainStage.json
     projectPath: Library/StateCache/SceneView/f0429e-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoofGame/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/ProjectSettings/InputManager.asset
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/ProjectSettings/InputManager.asset
-    projectPath: ProjectSettings/InputManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Temp/__Backupscenes/0.backup
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/__Backupscenes/0.backup
-    projectPath: Temp/__Backupscenes/0.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoofGame/Temp/importedAudioTempPreview
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/importedAudioTempPreview
-    projectPath: Temp/importedAudioTempPreview
+  - path: BoofGame/Temp/UnityTempFile-77a0728165ca74f43af6255e913bcb1c
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-77a0728165ca74f43af6255e913bcb1c
+    projectPath: Temp/UnityTempFile-77a0728165ca74f43af6255e913bcb1c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-05d55826535dd43fd9b49bc7107bd82d
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-05d55826535dd43fd9b49bc7107bd82d
-    projectPath: Temp/UnityTempFile-05d55826535dd43fd9b49bc7107bd82d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-0c31b376f983448ae9684fadc7bde1bb
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-0c31b376f983448ae9684fadc7bde1bb
-    projectPath: Temp/UnityTempFile-0c31b376f983448ae9684fadc7bde1bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-0d2c2c9cf0f7c49148e468828760a471
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-0d2c2c9cf0f7c49148e468828760a471
-    projectPath: Temp/UnityTempFile-0d2c2c9cf0f7c49148e468828760a471
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-1217bde197db14e69b83f6dda0d4c226
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-1217bde197db14e69b83f6dda0d4c226
-    projectPath: Temp/UnityTempFile-1217bde197db14e69b83f6dda0d4c226
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-1be226108775c4c1bb9d2d8ead9dd3b8
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-1be226108775c4c1bb9d2d8ead9dd3b8
-    projectPath: Temp/UnityTempFile-1be226108775c4c1bb9d2d8ead9dd3b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-1ca939482e63e4fb897af1ce71c106fa
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-1ca939482e63e4fb897af1ce71c106fa
-    projectPath: Temp/UnityTempFile-1ca939482e63e4fb897af1ce71c106fa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-1d5482b9cf32b446298aa879d52dc120
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-1d5482b9cf32b446298aa879d52dc120
-    projectPath: Temp/UnityTempFile-1d5482b9cf32b446298aa879d52dc120
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-215f7c1c1312a4e6a9c78a1dfe245702
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-215f7c1c1312a4e6a9c78a1dfe245702
-    projectPath: Temp/UnityTempFile-215f7c1c1312a4e6a9c78a1dfe245702
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-2d9f79530697943c9ad98947525a1038
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-2d9f79530697943c9ad98947525a1038
-    projectPath: Temp/UnityTempFile-2d9f79530697943c9ad98947525a1038
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-2da551dbe17f748ca929f867bded626b
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-2da551dbe17f748ca929f867bded626b
-    projectPath: Temp/UnityTempFile-2da551dbe17f748ca929f867bded626b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-420c6c51971374e5da7e325e9f4d869f
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-420c6c51971374e5da7e325e9f4d869f
-    projectPath: Temp/UnityTempFile-420c6c51971374e5da7e325e9f4d869f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-4819cebab251744d9a05321d007eceaa
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-4819cebab251744d9a05321d007eceaa
-    projectPath: Temp/UnityTempFile-4819cebab251744d9a05321d007eceaa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-4e6c5cc39fc7f41138185d2d38990a3e
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-4e6c5cc39fc7f41138185d2d38990a3e
-    projectPath: Temp/UnityTempFile-4e6c5cc39fc7f41138185d2d38990a3e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-4f7ff3d7d22a44bde8b1439522ee6371
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-4f7ff3d7d22a44bde8b1439522ee6371
-    projectPath: Temp/UnityTempFile-4f7ff3d7d22a44bde8b1439522ee6371
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-52435b9e16af34d2cb03e3428ec904f1
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-52435b9e16af34d2cb03e3428ec904f1
-    projectPath: Temp/UnityTempFile-52435b9e16af34d2cb03e3428ec904f1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-57f151b49976345beb1a8c77059b5cc4
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-57f151b49976345beb1a8c77059b5cc4
-    projectPath: Temp/UnityTempFile-57f151b49976345beb1a8c77059b5cc4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-5ba91607444fe4ca9ba7c42cb8ad5381
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-5ba91607444fe4ca9ba7c42cb8ad5381
-    projectPath: Temp/UnityTempFile-5ba91607444fe4ca9ba7c42cb8ad5381
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-5c826f37675024bd09a9224db7fcf9d1
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-5c826f37675024bd09a9224db7fcf9d1
-    projectPath: Temp/UnityTempFile-5c826f37675024bd09a9224db7fcf9d1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-615f14239e5af457a80780049e50fa99
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-615f14239e5af457a80780049e50fa99
-    projectPath: Temp/UnityTempFile-615f14239e5af457a80780049e50fa99
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-6c695175c85dd448b83b0841db08336a
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-6c695175c85dd448b83b0841db08336a
-    projectPath: Temp/UnityTempFile-6c695175c85dd448b83b0841db08336a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-6ede5a2b41ab44229a791db78fafce66
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-6ede5a2b41ab44229a791db78fafce66
-    projectPath: Temp/UnityTempFile-6ede5a2b41ab44229a791db78fafce66
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-6fce37337aa7e4e98864a560fb2a6efc
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-6fce37337aa7e4e98864a560fb2a6efc
-    projectPath: Temp/UnityTempFile-6fce37337aa7e4e98864a560fb2a6efc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-83306d08ce9c84f359813d661b3aed0d
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-83306d08ce9c84f359813d661b3aed0d
-    projectPath: Temp/UnityTempFile-83306d08ce9c84f359813d661b3aed0d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-8ec3d12c8485f4a179aa9386193cd6e4
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-8ec3d12c8485f4a179aa9386193cd6e4
-    projectPath: Temp/UnityTempFile-8ec3d12c8485f4a179aa9386193cd6e4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-937234a70fdaf4a018b78fc37c710bf4
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-937234a70fdaf4a018b78fc37c710bf4
-    projectPath: Temp/UnityTempFile-937234a70fdaf4a018b78fc37c710bf4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-9bbd8e87d3f8145ed86525f756851e12
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-9bbd8e87d3f8145ed86525f756851e12
-    projectPath: Temp/UnityTempFile-9bbd8e87d3f8145ed86525f756851e12
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-ac31de4257fa0465d8c2ee9b4e6a5ee7
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-ac31de4257fa0465d8c2ee9b4e6a5ee7
-    projectPath: Temp/UnityTempFile-ac31de4257fa0465d8c2ee9b4e6a5ee7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-ac79d4fe23bbf466b8b6beaa6b00980f
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-ac79d4fe23bbf466b8b6beaa6b00980f
-    projectPath: Temp/UnityTempFile-ac79d4fe23bbf466b8b6beaa6b00980f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-af3a5a2b764ca42709757221e2323824
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-af3a5a2b764ca42709757221e2323824
-    projectPath: Temp/UnityTempFile-af3a5a2b764ca42709757221e2323824
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-b3022f5d84c704016bc7fe6dbe3a1047
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-b3022f5d84c704016bc7fe6dbe3a1047
-    projectPath: Temp/UnityTempFile-b3022f5d84c704016bc7fe6dbe3a1047
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-b80fd114946694c5ab496c6742cab967
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-b80fd114946694c5ab496c6742cab967
-    projectPath: Temp/UnityTempFile-b80fd114946694c5ab496c6742cab967
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-b93b1ffc1db9d4db3a7a749f95b3dff8
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-b93b1ffc1db9d4db3a7a749f95b3dff8
-    projectPath: Temp/UnityTempFile-b93b1ffc1db9d4db3a7a749f95b3dff8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-bf7500da0e9cd4a2b9d32d8470997c23
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-bf7500da0e9cd4a2b9d32d8470997c23
-    projectPath: Temp/UnityTempFile-bf7500da0e9cd4a2b9d32d8470997c23
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-bfac5133451d749d4be483b847bc999e
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-bfac5133451d749d4be483b847bc999e
-    projectPath: Temp/UnityTempFile-bfac5133451d749d4be483b847bc999e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-c0bf9824c32504e51a1045e95c1c79dc
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-c0bf9824c32504e51a1045e95c1c79dc
-    projectPath: Temp/UnityTempFile-c0bf9824c32504e51a1045e95c1c79dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-d4d8f6c7fb2e0448aa0941aebddc0b09
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-d4d8f6c7fb2e0448aa0941aebddc0b09
-    projectPath: Temp/UnityTempFile-d4d8f6c7fb2e0448aa0941aebddc0b09
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-dcbb8018ecfb94b2093a11adb5f42fd9
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-dcbb8018ecfb94b2093a11adb5f42fd9
-    projectPath: Temp/UnityTempFile-dcbb8018ecfb94b2093a11adb5f42fd9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-ddfadae5f119646bebcbaff68cb9e18b
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-ddfadae5f119646bebcbaff68cb9e18b
-    projectPath: Temp/UnityTempFile-ddfadae5f119646bebcbaff68cb9e18b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-e3257501d057b4648a5729cdf951fd89
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-e3257501d057b4648a5729cdf951fd89
-    projectPath: Temp/UnityTempFile-e3257501d057b4648a5729cdf951fd89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-e5413495331c949af88c0731baaddbda
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-e5413495331c949af88c0731baaddbda
-    projectPath: Temp/UnityTempFile-e5413495331c949af88c0731baaddbda
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-e7fed81ce6a9246119df3cbbe9735eb5
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-e7fed81ce6a9246119df3cbbe9735eb5
-    projectPath: Temp/UnityTempFile-e7fed81ce6a9246119df3cbbe9735eb5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-e91c8ce885218497cb67958710c46a7a
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-e91c8ce885218497cb67958710c46a7a
-    projectPath: Temp/UnityTempFile-e91c8ce885218497cb67958710c46a7a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-ecf6e0496cde04dd5b7108ef5bde65c9
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-ecf6e0496cde04dd5b7108ef5bde65c9
-    projectPath: Temp/UnityTempFile-ecf6e0496cde04dd5b7108ef5bde65c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoofGame/Temp/UnityTempFile-f8abe85803abb4edd8b6c3e36d390627
-    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-f8abe85803abb4edd8b6c3e36d390627
-    projectPath: Temp/UnityTempFile-f8abe85803abb4edd8b6c3e36d390627
+  - path: BoofGame/Temp/UnityTempFile-f18a7af0567224b31ac8a00f48467ffd
+    fullPath: /Users/guywilks/Documents/GitHub/BoofGame/BoofGame/Temp/UnityTempFile-f18a7af0567224b31ac8a00f48467ffd
+    projectPath: Temp/UnityTempFile-f18a7af0567224b31ac8a00f48467ffd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

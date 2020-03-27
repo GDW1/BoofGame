@@ -49,4 +49,14 @@ public class Enemy : MonoBehaviour
             }
         }
     }
+    public void DestroyEnemy(){
+        health = 0;
+        Debug.Log("DeadEnemy");
+        isDead = true;
+        anim.SetBool("IsDead", isDead);
+        renderer.sortingOrder = 1;
+        Destroy(collide);
+        rigbod.gravityScale = 0;
+        rigbod.velocity = new Vector2(0,0);
+    }
 }
