@@ -67,7 +67,7 @@
     <Compile Include="Assets\Scripts\DeaglePickup.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\cameraScript.cs" />
-    <Compile Include="Assets\Scripts\h.cs" />
+    <Compile Include="Assets\Scripts\hide.cs" />
     <Compile Include="Assets\Scripts\playerMovement.cs" />
     <Compile Include="Assets\Scripts\shootGun.cs" />
     <Reference Include="Unity.Timeline.Editor">

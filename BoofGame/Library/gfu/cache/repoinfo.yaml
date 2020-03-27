@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-03-26T20:33:26.132-07:00
-  initializedAtString: 2020-03-26T20:33:26.132-07:00
+  lastUpdatedAtString: 2020-03-26T21:53:11.179-07:00
+  initializedAtString: 2020-03-26T21:53:11.179-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/GDW1/BoofGame.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: Testing
-    tracking: origin/Testing
+    name: stealth
+    tracking: origin/stealth
   currentConfigBranch:
-    name: Testing
+    name: stealth
     remote:
       name: origin
       url: https://github.com/GDW1/BoofGame.git
-    trackingBranch: Testing
+    trackingBranch: stealth
   currentConfigRemote:
     name: origin
     url: https://github.com/GDW1/BoofGame.git
