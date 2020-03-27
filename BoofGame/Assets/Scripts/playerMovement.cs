@@ -20,6 +20,7 @@ public class playerMovement : MonoBehaviour
     private int GunNum;
     private GameObject currentGun;
     private UnityEngine.UI.Text bul;
+    private int prevGunNum;
 
     // Start is called before the first frame update
     void Start()
@@ -33,7 +34,7 @@ public class playerMovement : MonoBehaviour
         collider2D = gameObject.GetComponent<BoxCollider2D>();
         gunsHeld = new List<GameObject>();
         bul = GameObject.Find("BullC").GetComponent<UnityEngine.UI.Text>();
-
+        GunNum = -1;
     }
 
     // Update is called once per frame
@@ -87,59 +88,71 @@ public class playerMovement : MonoBehaviour
             anim.SetBool("IsCrouching", false);
         }
         anim.SetBool("IsJumping", isJumping);
+        prevGunNum = GunNum;
         if(gunsHeld.Count != 0){
             if(Input.GetKeyDown(KeyCode.Alpha1)){
                 GunNum = 0;
-                            Debug.Log(GunNum);
-
+                if(prevGunNum != GunNum){
+                    currentGun = gunsHeld[GunNum];
+                    currentGun.GetComponent<SpriteRenderer>().enabled = true;
+                    currentGun.GetComponent<shootGun>().beingHeld = true;
+                    holdingGun = true;
+                }else{
+                    currentGun.GetComponent<SpriteRenderer>().enabled = false;
+                    currentGun.GetComponent<shootGun>().beingHeld = false;
+                    holdingGun = false;
+                }
             }else if(Input.GetKeyDown(KeyCode.Alpha2)){
                 GunNum = 1;
-            Debug.Log(GunNum);
-
+                if(prevGunNum != GunNum){
+                    currentGun = gunsHeld[GunNum];
+                    currentGun.GetComponent<SpriteRenderer>().enabled = true;
+                    currentGun.GetComponent<shootGun>().beingHeld = true;
+                    holdingGun = true;
+                }else{
+                    currentGun.GetComponent<SpriteRenderer>().enabled = false;
+                    currentGun.GetComponent<shootGun>().beingHeld = false;
+                    holdingGun = false;
+                }
             }else if(Input.GetKeyDown(KeyCode.Alpha3)){
                 GunNum = 2;
-            Debug.Log(GunNum);
-
+                if(prevGunNum != GunNum){
+                    currentGun = gunsHeld[GunNum];
+                    currentGun.GetComponent<SpriteRenderer>().enabled = true;
+                    currentGun.GetComponent<shootGun>().beingHeld = true;
+                    holdingGun = true;
+                }else{
+                    currentGun.GetComponent<SpriteRenderer>().enabled = false;
+                    currentGun.GetComponent<shootGun>().beingHeld = false;
+                    holdingGun = false;
+                }
             }else if(Input.GetKeyDown(KeyCode.Alpha4)){
                 GunNum = 3;
-            Debug.Log(GunNum);
-
+                if(prevGunNum != GunNum){
+                    currentGun = gunsHeld[GunNum];
+                    currentGun.GetComponent<SpriteRenderer>().enabled = true;
+                    currentGun.GetComponent<shootGun>().beingHeld = true;
+                    holdingGun = true;
+                }else{
+                    currentGun.GetComponent<SpriteRenderer>().enabled = false;
+                    currentGun.GetComponent<shootGun>().beingHeld = false;
+                    holdingGun = false;
+                }
             }
         }
-        if(Input.GetButtonDown("Equip1") && !holdingGun && gunsHeld.Count != 0){
-            Debug.Log(GunNum);
-            currentGun = gunsHeld[GunNum];
-            currentGun.GetComponent<SpriteRenderer>().enabled = true;
-            currentGun.GetComponent<shootGun>().beingHeld = true;
-            holdingGun = true;
-        }else if(Input.GetButtonDown("Equip1") && holdingGun && gunsHeld.Count != 0){
-            currentGun.GetComponent<SpriteRenderer>().enabled = false;
-            currentGun.GetComponent<shootGun>().beingHeld = false;
-            holdingGun = false;
-        }
+        // if(Input.GetButtonDown("Equip1") && !holdingGun && gunsHeld.Count != 0){
+        //     Debug.Log(GunNum);
+        //     currentGun = gunsHeld[GunNum];
+        //     currentGun.GetComponent<SpriteRenderer>().enabled = true;
+        //     currentGun.GetComponent<shootGun>().beingHeld = true;
+        //     holdingGun = true;
+        // }else if(Input.GetButtonDown("Equip1") && holdingGun && gunsHeld.Count != 0){
+        //     currentGun.GetComponent<SpriteRenderer>().enabled = false;
+        //     currentGun.GetComponent<shootGun>().beingHeld = false;
+        //     holdingGun = false;
+        // }
         if(currentGun != null) bul.text= "Bullet Count: " + currentGun.GetComponent<shootGun>().bulletNumber  + "/" + currentGun.GetComponent<shootGun>().maxBullets;
 
-    }
-
-    private void assignGunNum()
-    {
-        if(gunsHeld.Count != 0){
-            if(Input.GetKeyDown("1")){
-                GunNum = 0;
-            }else if(Input.GetKeyDown("2")){
-                GunNum = 1;
-
-            }else if(Input.GetKeyDown("2")){
-                GunNum = 2;
-
-            }else if(Input.GetKeyDown("2")){
-                GunNum = 3;
-
-            }else{
-                GunNum = 0;
-
-            }
-        }
     }
 
     private void OnCollisionEnter2D (Collision2D col)

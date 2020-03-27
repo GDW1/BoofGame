@@ -56,7 +56,7 @@ public class Enemy : MonoBehaviour
                 Destroy(collide);
                 rigbod.gravityScale = 0;
                 rigbod.velocity = new Vector2(0,0);
-        }
+            }
         }
     }
 }
