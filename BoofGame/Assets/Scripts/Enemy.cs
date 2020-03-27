@@ -24,28 +24,13 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        gameObject.transform.eulerAngles=new Vector3(0,0,0);
         if(!isDead){
 
         }else{
             if (anim.GetCurrentAnimatorStateInfo(0).IsName("Alex_death"))
             {
                 Destroy(gameObject);
-            }
-        }
-    }
-
-    private void OnCollisionEnter2D (Collision2D col)
-    {
-        if (col.gameObject.tag == "Bullet") {
-            health -= col.gameObject.GetComponent<Bullet>().damage;
-            if(health <= 0){
-                Debug.Log("DeadEnemy");
-                isDead = true;
-                anim.SetBool("IsDead", isDead);
-                renderer.sortingOrder = 1;
-                Destroy(collide);
-                rigbod.gravityScale = 0;
-                rigbod.velocity = new Vector2(0,0);
             }
         }
     }
@@ -58,5 +43,20 @@ public class Enemy : MonoBehaviour
         Destroy(collide);
         rigbod.gravityScale = 0;
         rigbod.velocity = new Vector2(0,0);
+    }
+    private void OnCollisionEnter2D (Collision2D col)
+    {
+        if (col.gameObject.tag == "Bullet") {
+            health -= col.gameObject.GetComponent<Bullet>().damage;
+            if(health <= 0){
+                Debug.Log("DeadEnemy");
+                isDead = true;
+                anim.SetBool("IsDead", isDead);
+                renderer.sortingOrder = 1;
+                Destroy(collide);
+                rigbod.gravityScale = 0;
+                rigbod.velocity = new Vector2(0,0);
+        }
+        }
     }
 }
